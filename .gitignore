@@ -1,0 +1,5 @@
+#Standard git files to ignore
+node_modules/
+dist/
+build/
+.env
